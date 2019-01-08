@@ -1,0 +1,200 @@
+[
+	{
+		"BRAND" 		: "Fender",
+		"PRODUCTNAME" 	: "American Special Stratocaster",
+		"GRAPHICNAME"	: "American Special Stratocaster",		
+		"COSTPRICE"		: "900.00",
+		"MRSP"			: "1299.99",
+		"QTYONHAND"		: "7",
+		"QTYONBACKORDER": "2",
+		"DESCRIPTION"	: "Comfortable chording throughout the neck and effortless bending via the modern radiuses Maple fingerboard, 22 jumbo frets and ‘C’ shape neck profile. Enjoy tonal flexibility with sparkling high end as well as thick overdrive from Fender’s Grease bucket tone circuit which allows the player to roll off high end timbres without creating additional emphasis on the bass tones. Express yourself with variations in note pitch via the Synchronized Tremolo that has been a hallmark of the Stratocaster. Dial in a variety of ferocious tones as well as dirty bell like chimes via the 5-way selector switch and 3 Texas Special single coils pickups. Deluxe Gig Bag Included."
+	},
+	
+	{
+		"BRAND" 		: "Fender",
+		"PRODUCTNAME" 	: "Classic Series '70's Stratocaster",
+		"GRAPHICNAME"	: "Classic Series '70's Stratocaster",		
+		"COSTPRICE"		: "650.00",
+		"MRSP"			: "1099.99",
+		"QTYONHAND"		: "5",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION"	: "Three vintage style single-coil Strat pickups provide the full range of classic '70's Strat tones. The larger headstock, bullet truss-rod nut, 'F' tuners, and 3-Bolt neck-plate (with Micro-Tilt) recall the hallmark aesthetics of the decade. Deluxe gig bag included. "
+	},
+	
+	{
+		"BRAND" 		: "Fender",
+		"PRODUCTNAME" 	: "Standard Stratocaster",
+		"GRAPHICNAME"	: "Standard Stratocaster",		
+		"COSTPRICE"		: "500.00",
+		"MRSP"			: "829.99",
+		"QTYONHAND"		: "12",
+		"QTYONBACKORDER": "3",
+		"DESCRIPTION"	: "The Standard Stratocaster HSH takes the already-blistering Standard Stratocaster HH model and supercharges it even more with the addition of a Standard Stratocaster single-coil pickup between two ferocious Blacktop open-coil humbucking pickups with chrome/black bobbins and a coil-splitting push/pull switch built into the second tone knob that leaves the outside coils active. That means even more sonic versatility in a stylishly distinctive Strat model for modern guitarists who want heavy and aggressive tone."
+	},
+	
+	{
+		"BRAND" 		: "Fender",
+		"PRODUCTNAME" 	: "American Elite Stratocaster",
+		"GRAPHICNAME"	: "American Elite Stratocaster",		
+		"COSTPRICE"		: "1500.00",
+		"MRSP"			: "2499.99",
+		"QTYONHAND"		: "3",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION"	: "Externally the American Elite Stratocaster has Fender’s timeless style, but under the hood it’s an entirely new breed of guitar designed for 21-century players who constantly push the envelope. With over a dozen new innovations, each guitar is a true performer with eye-catching style, exceptional feel and versatile sound from the very first moment you plug it in and play."
+	},
+	
+	{
+		"BRAND" 		: "Fender",
+		"PRODUCTNAME" 	: "Standard Telecaster",
+		"GRAPHICNAME"	: "Standard Telecaster",		
+		"COSTPRICE"		: "500.00",
+		"MRSP"			: "829.99",
+		"QTYONHAND"		: "6",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION"	: "For modern guitarists who want heavy and aggressive tone from Fender original workhorse instrument, the standard Telecaster HH deliver massive high-gain power from two blacktop open-coil humbucking pickups with chrome/black bobbins and black bezels. Stylish and supercharged, it’s built to match the intensity of any playing style, with other distinctive features including a coil-splitting push/pull switch built into the tone knob that leaves the outside coils active. A versatile performer with a full-throat voice."
+	},
+	
+	{
+		"BRAND" 		: "Gibson",
+		"PRODUCTNAME" 	: "Les Paul Traditional-Honey Burst",
+		"GRAPHICNAME"	: "Les Paul Traditional-Honey Burst",		
+		"COSTPRICE"		: "1700.00",
+		"MRSP"			: "2699.00",
+		"QTYONHAND"		: "4",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION"	: "The les Paul traditional 2016 t's foundation is the same traditional tonewood combination that helped make the les Paul a legend when it was introduced six decades ago. A beautifully carved solid grade-aa figured maple top lends bite and articulation to the sound, while the solid mahogany back with traditional weight relief contributes superb warmth and depth. Pure vintage-voiced tone with a contemporary edge comes courtesy of Gibson’s ’57 classic pickups with traditional chrome covers, made in the image of the hallowed late 1950s PAF humbucker with alnico ii magnets. A traditional wind in the neck position provides plenty of warmth and clarity, and in the bridge position, slightly over-wound coils in the ’57 classic plus offer juicy crunch and wailing lead tones. "
+	},
+	
+	{
+		"BRAND" 		: "Gibson",
+		"PRODUCTNAME" 	: "SG Standard",
+		"GRAPHICNAME"	: "SG Standard",		
+		"COSTPRICE"		: "900.00",
+		"MRSP"			: "1485.08",
+		"QTYONHAND"		: "5",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION"	: "Asymmetrical double-horned body styling and smaller 'teardrop' pickguard and the Classic '57 humbuckers likewise take you straight back to those hallowed PAF tones. When uncompromising performance matters, locking Grover kidney-button tuners, a slim taper neck and rosewood fingerboard with rolled binding. Finest modern aluminum Tune-O-Matic bridge and stop bar tailpiece with elegant chrome plating provide a stylish and modern SG playing experience."
+	},
+	
+	{
+		"BRAND" 		: "Gibson",
+		"PRODUCTNAME" 	: "Firebird Studio T",
+		"GRAPHICNAME"	: "Firebird Studio T",		
+		"COSTPRICE"		: "850.00",
+		"MRSP"			: "1555.43",
+		"QTYONHAND"		: "2",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION"	: "It's light, nimble, fast and extremely comfortable to play. 496R and 496T humbuckers are powerhouses, ready to rock the house with grind and aggression that go beyond traditional Mini-Humbuckers. Exquisitely polished frets allow for smoother bends and a better feel, while vintage looks will be sure to make you stand out both in studio and on stage. The guitar comes delivered in a padded gig bag, with a strap and polishing cloth."
+	},
+	
+	{
+		"BRAND" 		: "Gibson",
+		"PRODUCTNAME" 	: "2018 Flying V",
+		"GRAPHICNAME"	: "2018 Flying V",		
+		"COSTPRICE"		: "1000.00",
+		"MRSP"			: "1749.00",
+		"QTYONHAND"		: "6",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION"	: "A stylish nod to one of the most loved revolutionary models in the original Modernist Series of 1958-60 guitars. Classic looks and vintage finish with solid mahogany body and a fast, comfortable Slim Taper set-in mahogany neck make this a highly desirable guitar for the high-intensity player. A pair of BurstBucker humbucking pickups and the classic Gibson hardware provide for incredible tone and sustain."
+	},
+	
+	{
+		"BRAND" 		: "Gibson",
+		"PRODUCTNAME" 	: "2017 Explorer T",
+		"GRAPHICNAME"	: "2017 Explorer T",		
+		"COSTPRICE"		: "850.00",
+		"MRSP"			: "1550.00",
+		"QTYONHAND"		: "5",
+		"QTYONBACKORDER": "2",
+		"DESCRIPTION"	: "One glance and you know instantly: this is a rock'n'roll powerhouse of a guitar. The 2017 Explorer T delivers raw power, scorching tones, and extreme sustain, all wrapped in an iconic design that's as rebellious as rock itself. And beneath the Explorer's aggression and brute sonic force lie the subtler qualities that make a Gibson such a special guitar: superb playing comfort, extreme speed, and the confidence of utmost quality. Crafted in the image of the original radical Explorer body style, using select solid mahogany, and loaded with two of Gibson's fiercest high-gain humbuckers and top-quality hardware, the Explorer T is truly a piece of rock weaponry that can do it all. The guitar is delivered in a classic Gibson hardshell case with a Gibson multi-tool, a premium leather strap and a polishing cloth."
+	},
+	
+	{
+		"BRAND" 		: "Jackson",
+		"PRODUCTNAME" 	: "Dinky Arch Top JS22",
+		"GRAPHICNAME"	: "Dinky Arch Top JS22",		
+		"COSTPRICE"		: "120.00",
+		"MRSP"			: "260.00",
+		"QTYONHAND"		: "7",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION"	: "Swift, deadly and affordable, Jackson JS Series guitars take an epic leap forward, making it easier than ever to get classic Jackson tone, looks and playability without breaking the bank. Upgraded features such as arched tops, new high-output ceramic-magnet pickups, graphite-reinforced maple necks, bound fingerboards and headstocks, and black hardware deliver more for less.The JS22 Dinky Arch Top has an elegantly arch-topped poplar body, bolt-on maple speed neck with graphite reinforcement, compound radius (12-16) bound rosewood fingerboard with 24 jumbo frets and pearloid sharkfin inlays, and a bound headstock. Other features include dual high-output Jackson humbucking pickups with ceramic magnets and three-way blade switching, synchronized fulcrum tremolo bridge, black hardware and die-cast tuners. Case sold separately. "
+	},
+	
+	{
+		"BRAND" 		: "Jackson",
+		"PRODUCTNAME" 	: "King V KVXMG",
+		"GRAPHICNAME"	: "King V KVXMG",		
+		"COSTPRICE"		: "500.00",
+		"MRSP"			: "849.99",
+		"QTYONHAND"		: "5",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION"	: "Jackson 291-6400-503 X-Series KVXMG King V Solid Body Electric Guitar - EMG Pickups - Basswood Body - Neck Thru Body - Gloss Black Finish New Jackson® X Series guitars are loaded with purebred Jackson DNA-neck-through-body construction, hot humbucking pickups, bound compound-radius fingerboards with our distinctive shark-fin inlays, and stunning finishes. Classic Jackson models imbued with the X factor, with fantastic tone, ultra-fast playability and unbelievable value for 21st century guitarists. "
+	},
+	
+	{
+		"BRAND" 		: "Jackson",
+		"PRODUCTNAME" 	: "JS32 Rhoads",
+		"GRAPHICNAME"	: "JS32 Rhoads",		
+		"COSTPRICE"		: "200.00",
+		"MRSP"			: "399.99",
+		"QTYONHAND"		: "3",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION"	: "Poplar Rhoads Body w/1pc. Bolt-On Maple Speed Neck w/Graphite Reinforcement, Scarf Joint and 25.5' Scale Length. 12'-16' Compound Radius Rosewood Fingerboard w/24 Jumbo Frets and Pearloid Sharkfin Inlays. Jackson® High-Output Humbucking Pickups w/3-Way Toggle, Master Vol, Master Tone. Floyd Rose® Licensed Jackson® Double Locking Tremolo, Floyd Rose® R3 Locking Nut, Jackson® Sealed Die-Cast Tuners. Case Not Included."
+	},
+	
+	{
+		"BRAND" 		: "Jackson",
+		"PRODUCTNAME" 	: "KEXM X-Series Kelly",
+		"GRAPHICNAME"	: "KEXM X-Series Kelly",		
+		"COSTPRICE"		: "450.00",
+		"MRSP"			: "849.99",
+		"QTYONHAND"		: "2",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION"	: "Body Body shape: Z Body type: Solid body Body material: Solid wood Top wood: Not applicable Body wood: Basswood Body finish: Gloss Orientation: Right handed Neck Neck shape: Kelly Neck wood: 1-piece Maple Joint: Neck-through Scale length: 25.5 in. Truss rod: Standard Neck finish: Painted Fretboard Material: Maple Radius: Compound Fret size: Jumbo Number of frets: 24 Inla"
+	},
+	
+	{
+		"BRAND" 		: "Jackson",
+		"PRODUCTNAME" 	: "X-Series Warrior WRX24",
+		"GRAPHICNAME"	: "X-Series Warrior WRX24",		
+		"COSTPRICE"		: "400.00",
+		"MRSP"			: "779.99",
+		"QTYONHAND"		: "4",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION"	: "The X Series Warrior model is a fiendishly affordable take on Jackson's radically X-shaped shredder. Ingrained with purebred Jackson DNA, ultra-fast playability and unbelievable value, the WRX24 features a 25.5' scale length, resonant mahogany body, and through-body maple neck with scarf joint and graphite reinforcement for solid stability, guarding against climate and humidity changes. Its bound 12'-16' compound-radius rosewood fingerboard curves more dramatically at the nut for easy chording and flattens out as it approaches the neck joint for low-action bends without fretting out, and hosts 24 jumbo frets and distinctive pearloid sharkfin inlays. Dual Duncan Designed HB-103 humbucking pickups use ceramic magnets and powerful coil windings to deliver a well-balanced high-output tone with tight bass and plenty of crunch and harmonics. The WRX24 also has single volume and tone controls, a three-way toggle switch and a Floyd Rose Special double-locking 2-point tremolo bridge system for superior string stability, sustain and dynamic tremolo action."
+	},
+	
+	{
+		"BRAND" 		: "Gretsch",
+		"PRODUCTNAME" 	: "G6128T-53 Vintage Select '53 Duo Jet",
+		"GRAPHICNAME"	: "G6128T-53 Vintage Select '53 Duo Jet",		
+		"COSTPRICE"		: "1800.00",
+		"MRSP"			: "3249.99",
+		"QTYONHAND"		: "3",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION"	: "Inspired by the pivotal and prolific years of Gretsch's 1950s and early '60s golden age, Vintage Select Edition guitars are designed for the player who appreciates the finest in musical instrument heritage. The G6128T-53 Vintage Select '53 Duo Jet with Bigsby rocks that legacy with a finely crafted new take on one of Gretsch's first and dearest models. The Duo Jet debuted in 1953 as Gretsch's flagship 'solid body' guitar, although its signature power and punch came from its chambered mahogany design, which magnifies harmonic richness by letting air resonate between the top and body for livelier and more articulate tone. That's all here on this original-era beauty, along with special touches including the rare Gretsch 'script' headstock logo and dual TV Jones T-Armond pickups that keenly replicate the vintage DynaSonic sound."
+	},
+	
+	{
+		"BRAND" 		: "Gretsch",
+		"PRODUCTNAME" 	: "G6134 White Penguin",
+		"GRAPHICNAME"	: "G6134 White Penguin",		
+		"COSTPRICE"		: "2100.00",
+		"MRSP"			: "4319.99",
+		"QTYONHAND"		: "1",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION"	: "A veritable holy grail among classic electric guitar aficionados, the Gretsch White Penguin combines the gold and glitter of the Falcon with the sleek style of the Duo Jet. Features include single-cutaway chambered body with arched top and gold-sparkle binding, one-piece mahogany neck, gold-sparkle-bound ebony fingerboard with feather-motif hump block inlays, gold-sparkle-bound headstock with inlaid winged Gretsch logo and gold-sparkle truss rod cover, dual DynaSonic single-coil pickups, three-position pickup switch, gold plexi pickguard with Penguin motif, rhinestone and white dot control knob inlays, Synchro-Sonic bridge, Gretsch G Cadillac tailpiece, gold-plated Grover Imperial tuners, banjo armrest and gold-plated hardware."
+	},
+	
+	{
+		"BRAND" 		: "B.C. Rich",
+		"PRODUCTNAME" 	: "Mk1 Warlock",
+		"GRAPHICNAME"	: "Mk1 Warlock",		
+		"COSTPRICE"		: "150.00",
+		"MRSP"			: "370.00",
+		"QTYONHAND"		: "2",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION"	: "Mk1 series guitars all feature hard tail construction with satin natural painted necks for an easy, speedy feel. With fretwork and playability unrivaled at their price point, the Mk1 Series bring an amazing level of quality to the entry level player. The same attention to detail flows through the entire DNA of the B.C. Rich lineup, whether it be an entry level Mk1 or the premier Mk11 models."
+	}
+	
+]
